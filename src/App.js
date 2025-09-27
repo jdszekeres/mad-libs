@@ -28,7 +28,7 @@ function App() {
       </main >
       <div className="footer" style={{ marginTop: "20px", padding: "10px", borderTop: "1px solid #ccc" }}>
         <p>Created by jdszekeres</p>
-        <a href="https://github.com/yourusername/mad-libs">View on GitHub</a>
+        <a href="https://github.com/jdszekeres/mad-libs">View on GitHub</a>
       </div>
     </div >
   );
